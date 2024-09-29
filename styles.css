@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e7fbfd;
+    color: #333;
+    margin: 20px;
+  }
+
+  #principal{
+    font-size: 20px;
+    
+    width: 10vw;
+    margin: auto;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #principal:hover{
+    background-color: rgb(129, 253, 170);
+
+  }
+
+  .titulo{
+    color:blue;
+  }
+
+  .imagen{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
